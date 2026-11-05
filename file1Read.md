@@ -1,2 +1,4 @@
 # learning git
-update
+
+
+new line deleted update
